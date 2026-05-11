@@ -35,6 +35,6 @@ Atualmente estou em uma transição de carreira focada: saindo do desenvolviment
 ---
 
 ### 📫 Como me encontrar?
-- **LinkedIn:** [://linkedin.com]([https://://linkedin.com](https://www.linkedin.com/in/fernanda-hiarita/))
+- **LinkedIn:** https://github.com/fehiarita
 - **E-mail:** nandahiarita.15@gmail.com
 
