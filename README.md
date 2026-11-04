@@ -1,6 +1,6 @@
 # Olá, eu sou a Fernanda Hiarita! 👋
 
-### 🎓 Estudante de Ciência da Computação (7º Período)
+### 🎓 Estudante de Ciência da Computação (8º Período)
 
 Atualmente estou em uma transição de carreira focada: saindo do desenvolvimento Web para mergulhar no universo de **Análise de Dados**. Tenho uma base sólida em desenvolvimento Fullstack, o que me dá uma visão ampla sobre como os dados são gerados, armazenados e consumidos.
 
